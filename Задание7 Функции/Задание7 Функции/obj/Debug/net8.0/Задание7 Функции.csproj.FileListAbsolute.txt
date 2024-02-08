@@ -1,0 +1,14 @@
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\bin\Debug\net8.0\Задание7 Функции.exe
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\bin\Debug\net8.0\Задание7 Функции.deps.json
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\bin\Debug\net8.0\Задание7 Функции.runtimeconfig.json
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\bin\Debug\net8.0\Задание7 Функции.dll
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\bin\Debug\net8.0\Задание7 Функции.pdb
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.GeneratedMSBuildEditorConfig.editorconfig
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.AssemblyInfoInputs.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.AssemblyInfo.cs
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.csproj.CoreCompileInputs.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.dll
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\refint\Задание7 Функции.dll
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.pdb
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\Задание7 Функции.genruntimeconfig.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Задание7 Функции\Задание7 Функции\obj\Debug\net8.0\ref\Задание7 Функции.dll
