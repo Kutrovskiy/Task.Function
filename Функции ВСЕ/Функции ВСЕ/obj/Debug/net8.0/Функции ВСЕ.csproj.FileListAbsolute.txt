@@ -1,0 +1,14 @@
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.GeneratedMSBuildEditorConfig.editorconfig
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.AssemblyInfoInputs.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.AssemblyInfo.cs
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.csproj.CoreCompileInputs.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\bin\Debug\net8.0\Функции ВСЕ.exe
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\bin\Debug\net8.0\Функции ВСЕ.deps.json
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\bin\Debug\net8.0\Функции ВСЕ.runtimeconfig.json
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\bin\Debug\net8.0\Функции ВСЕ.dll
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\bin\Debug\net8.0\Функции ВСЕ.pdb
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.dll
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\refint\Функции ВСЕ.dll
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.pdb
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\Функции ВСЕ.genruntimeconfig.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Функции ВСЕ\Функции ВСЕ\obj\Debug\net8.0\ref\Функции ВСЕ.dll
